@@ -1,0 +1,34 @@
+Part-1
+// Question 1: Create an Array from 0...100 without using traditional For-loop
+
+// Question 2: Create an Array of only even numbers from the above array
+
+// Create a function that returns a Promise which returns the 
+// square of only even numbers and 
+// throws an error if an odd number is passed
+
+// Question 3: create an array of even squares using the previous array
+
+// Question 4: Sum of all the squares from the above array of Even Squares
+
+// Question 5: Call the above square Promise function with all numbers from 0-100
+// and ensure that the errors are not thrown
+// then print the following:
+// 1. Number of errors 
+// 2. The resultant array
+// 3. Number of objects in the resultant array
+____________________________________________________________________
+Part-2
+
+// Q1: Create a template string of a button HTML Element. Save the title
+// for the button in a separate var and use it in the button correctly.
+
+// Q2: Create a function that returns a list element (<li>) HTML 
+// use this function to create an ordered list HTML structure of numbers from 
+// 1-30 without breaking the template string invocation i.e. usage of += is disallowed.
+
+// Q3: Now only print the even numbers. Again, breaking the template string
+// invocation is disallowed                                            
+
+// Q4: Create a promise that simulates a delay of 1-3s randomly. Create an array of 
+// 10 such promises. Only print the output when all promises have been resolved.
